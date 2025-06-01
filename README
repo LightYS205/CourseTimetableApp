@@ -1,8 +1,0 @@
-This is a project for tracking courses for students you need to take all the files inside a folder respectively or it doesnt work.
-  https://github.com/wix/react-native-calendars
-	https://docs.expo.dev/versions/latest/sdk/notifications/
-	https://reactnavigation.org/docs/getting-started
-	https://icons.expo.fyi/
-	https://expo.github.io/router/docs
-	https://reactnative.dev/docs/components-and-apis
- These are the required libraries for code to run when you are ready to run the code get in you file directory using cd ../Your_file_addres just run npx expo start on terminal and log in in expo go or just open in web browser.
